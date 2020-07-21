@@ -16,9 +16,15 @@
     <ClInclude Include="src\Vaky\EntryPoint.h">
       <Filter>Vaky</Filter>
     </ClInclude>
+    <ClInclude Include="src\Vaky\Log.h">
+      <Filter>Vaky</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Vaky\Application.cpp">
+      <Filter>Vaky</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Vaky\Log.cpp">
       <Filter>Vaky</Filter>
     </ClCompile>
   </ItemGroup>

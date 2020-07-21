@@ -1,13 +1,16 @@
-#Directories
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.filters
+*.user
 
 .vs/
 bin/
 bin-int/
 
+Vaky/*.vcxproj
+Vaky/*.vcxproj.filters
+Vaky/vendor/
 
-#Files
-
-*.user
-*.sln
-*.vcxproj
-*.vcxproj.filters
+Sandbox/*.vcxproj
+Sandbox/*.vcxproj.filters
